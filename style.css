@@ -1,0 +1,51 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.bg1{
+    background-image: url(hot-gadgets/bg-1.png);
+   
+    background-repeat: no-repeat;
+}
+.bg2{
+
+}
+
+
+.pink-bg{
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 15px;
+    display: block;
+    margin: 0 auto;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px 5px lightgray;
+    border-radius: 50px;
+}
+
+
+.cat1{
+    box-shadow: 5px 5px 10px 5px lightgrey;
+    padding: 45px;
+    font-weight: bold;
+}
+
+.category{
+    display: inline-block;
+    padding-bottom: 20px;
+}
+
+.border-btm{
+    border-bottom: 7px solid orange !important;
+    border-radius: 5px;
+}
